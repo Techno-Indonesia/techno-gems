@@ -26,7 +26,12 @@ There's 2 way to install this gem:
       gem install ./mysql2-0.3.21.gem
       ```
         
-      
+      Add this following code in Gemfile
+     
+      ```RUBY
+      gem 'mysql2', '0.3.21'
+      ```
+
 ## What's modified?
 1. lib/mysql2/client.rb
    
