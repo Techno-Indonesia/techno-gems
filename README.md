@@ -21,7 +21,7 @@ There's 2 way to install this gem:
       
       ```
       git clone -b debian-12/mysql2/0.3.21 https://github.com/Techno-Indonesia/techno-gems.git
-      cd mysql2
+      cd techno-gems
       gem build mysql2.gemspec
       gem install ./mysql2-0.3.21.gem
       ```
